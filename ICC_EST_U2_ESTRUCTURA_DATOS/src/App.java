@@ -53,6 +53,10 @@ public class App {
         System.out.print(">> Cola final: ");
         colaPersonas.printCola();
 
+<<<<<<< HEAD
         System.out.println("\n===== FIN DE LA EJECUCION =====");
+=======
+        System.out.println("\n===== FIN DE LA EJECUCIÓN =====");
+>>>>>>> 64043b8f6085d6e33d2016039c3fc433e18ed6f2
     }
 }
